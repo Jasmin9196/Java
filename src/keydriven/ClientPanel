@@ -1,0 +1,20 @@
+browser =chrome
+
+url= http://162.243.162.181/beta-booster/public/login
+
+createaccount = //a[normalize-space()='Create Account']
+companyname= //input[@placeholder='Enter registered/ expected company name']
+addname=Skyproduct
+password=//input[@placeholder='********************']
+addpass=test@5555
+mainperson_contact=//input[@placeholder='Enter name of the main person to contact']
+addmain= dkpatel
+company_address=//input[@placeholder='Enter Postcode']
+comapnyadd=D/102 Shantiniketan Appartment,Ahemdabad
+POC_mai= //input[@placeholder='name@email.com']
+pocmail= test77899@yopmail.com
+street_address=//input[@placeholder='Select here']
+streetadd= Ahemdabad,1
+upload_profile=//button[normalize-space()='Upload Profile Picture']
+clicktrash=//i[@class='fa fa-trash']
+continue= (//button[normalize-space()='Continue'])[1]
